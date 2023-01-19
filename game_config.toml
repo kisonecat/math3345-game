@@ -1,16 +1,13 @@
-name = "Lean Maze game"
-version = "3.0.0"
+name = "Math 3345H"
+version = "1.0.0"
 extra_files = "extras"
-intro = "src/game/intro.lean"
+intro = "src/math3345h/intro.lean"
 
 [[worlds]]
-name = "Four mazes"
+name = "Propositions"
 id = 1
 levels = [
-	"src/mazes/example_maze/level.lean",
-	"src/mazes/maze_with_fire/level.lean",
-	"src/mazes/noneuclidean_maze/level.lean",
-	"src/mazes/gcd_maze/level813.lean",
-        "src/mazes/gcd_maze/level_challenge.lean",
-
+	"src/propositions/level1.lean",
+	"src/propositions/level2.lean",
+	"src/propositions/level3.lean"
 ]
