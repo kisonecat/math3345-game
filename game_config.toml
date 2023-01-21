@@ -9,5 +9,11 @@ id = 1
 levels = [
 	"src/propositions/level1.lean",
 	"src/propositions/level2.lean",
-	"src/propositions/level3.lean"
+	"src/propositions/level3.lean",
+	"src/propositions/level4.lean",
+	"src/propositions/level5.lean",
+	"src/propositions/level6.lean",
+	"src/propositions/level7.lean",
+	"src/propositions/level8.lean",
+	"src/propositions/level9.lean"
 ]
